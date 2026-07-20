@@ -1,4 +1,4 @@
-# # # Deploying a Student Registration System on AWS – Three-Tier Architecture
+# Deploying a Student Registration System on AWS – Three-Tier Architecture
 A production-oriented three-tier web application deployed on AWS that demonstrates secure network design, reverse proxy implementation, load balancing, high availability, and automatic instance recovery using Auto Scaling.
 
 The infrastructure separates the presentation, application, and database layers into dedicated network tiers while following AWS best practices for scalability, security, and fault tolerance.
